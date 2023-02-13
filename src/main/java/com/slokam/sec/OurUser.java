@@ -29,5 +29,5 @@ public class OurUser {
 	inverseJoinColumns = {@JoinColumn(name="rid")}
 			)
 	private List<Role> roles;
-	
+	//How are you chandana
 }
